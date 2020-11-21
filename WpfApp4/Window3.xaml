@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp4.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="Lisans Aktivasyonu" Height="178" Width="539" Icon="1.jpg">
+    <Grid Margin="0,0,-8,-4">
+        <Button x:Name="btKaydet" Content="Kaydet" HorizontalAlignment="Left" Margin="217,103,0,0" VerticalAlignment="Top" Width="74" Click="Button_Click"/>
+        <Label Content="Lisans Anahtarını Giriniz" HorizontalAlignment="Left" Margin="193,27,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.329,1.115"/>
+        <TextBox x:Name="txtLisans" HorizontalAlignment="Left" Height="23" Margin="54,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="429"/>
+
+    </Grid>
+</Window>

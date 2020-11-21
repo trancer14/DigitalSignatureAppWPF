@@ -1,0 +1,60 @@
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Database1.mdf
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Database1_log.ldf
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Hotel Screen v2.exe.config
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Hotel Screen v2.exe.manifest
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Hotel Screen v2.application
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Hotel Screen v2.exe
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Release\Hotel Screen v2.pdb
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Window1.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Window2.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\App.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2_Content.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\App.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\MainWindow.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Window1.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Window2.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2.g.resources
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\WpfApp4.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2.TrustInfo.xml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2.exe.manifest
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2.application
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2.exe
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Hotel Screen v2.pdb
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Window3.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\Window3.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Release\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\App.g.cs
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Window1.g.cs
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Window2.g.cs
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Window3.g.cs
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Database1.mdf
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Database1_log.ldf
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\App.baml
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Window1.baml
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Window2.baml
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Window3.baml
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\WpfApp4.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Hotel Screen v4.exe.config
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Hotel Screen v4.exe.manifest
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Hotel Screen v4.application
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Hotel Screen v4.exe
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\bin\Release\Hotel Screen v4.pdb
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4_Content.g.cs
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4.g.resources
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4.TrustInfo.xml
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4.exe.manifest
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4.application
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4.exe
+C:\Users\Admin\source\repos\WpfApp2\WpfApp4\obj\Release\Hotel Screen v4.pdb

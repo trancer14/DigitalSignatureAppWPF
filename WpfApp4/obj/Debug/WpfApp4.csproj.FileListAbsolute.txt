@@ -1,0 +1,55 @@
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Database1.mdf
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Database1_log.ldf
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Window1.g.cs
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Window1.baml
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\WpfApp4.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Window2.g.cs
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Window2.baml
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\App.baml
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Otel Tanıtım.exe.config
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Otel Tanıtım.exe.manifest
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Otel Tanıtım.application
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Otel Tanıtım.exe
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\bin\Debug\Otel Tanıtım.pdb
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım_Content.g.cs
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım.g.resources
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım.exe.manifest
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım.application
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım.exe
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım.pdb
+C:\Users\Admin\source\repos\WpfApp1\WpfApp4\obj\Debug\Otel Tanıtım.TrustInfo.xml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Window1.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Window2.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Database1.mdf
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Database1_log.ldf
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\App.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Window1.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Window2.baml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\WpfApp4.Properties.Resources.resources
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\WpfApp4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\WpfApp4.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Hotel Screen v2.exe.config
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Hotel Screen v2.exe.manifest
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Hotel Screen v2.application
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Hotel Screen v2.exe
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\bin\Debug\Hotel Screen v2.pdb
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2_Content.g.cs
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2_MarkupCompile.cache
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2_MarkupCompile.lref
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2.g.resources
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2.TrustInfo.xml
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2.exe.manifest
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2.application
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2.exe
+C:\Users\Admin\source\repos\WpfAppa\WpfApp4\obj\Debug\Hotel Screen v2.pdb
